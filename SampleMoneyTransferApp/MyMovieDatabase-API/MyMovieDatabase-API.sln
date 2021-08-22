@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMDB.APP", "MyMDB.APP\MyMDB.APP.csproj", "{D70ED3BB-DA38-430B-924F-7F2EB0C39D42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D70ED3BB-DA38-430B-924F-7F2EB0C39D42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70ED3BB-DA38-430B-924F-7F2EB0C39D42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70ED3BB-DA38-430B-924F-7F2EB0C39D42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70ED3BB-DA38-430B-924F-7F2EB0C39D42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF0B0418-3B35-40EF-894B-7ACB7F62F2E1}
+	EndGlobalSection
+EndGlobal
